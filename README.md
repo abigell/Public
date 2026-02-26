@@ -1,4 +1,4 @@
-#gbc
+# gbc
 
 ## Links
 - [D2L](https://learn.georgebrown.ca)
