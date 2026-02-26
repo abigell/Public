@@ -1,7 +1,7 @@
 #gbc
 
 ## Links
--[D2l](https://learn.georgebrown.ca)
+-[D2L](https://learn.georgebrown.ca)
 
 -[Atklass](https://app.atklass.com)
 
